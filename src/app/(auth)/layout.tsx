@@ -12,7 +12,7 @@ export default function AuthLayout({ children }: { children: React.ReactNode }) 
         </div>
         <div className="relative z-10 max-w-md">
           <p className="text-[11px] font-semibold uppercase tracking-[0.22em] text-[#a7c9b1]">
-            Welcome to Hunar Bazaar
+            Welcome to Pursuit E-Store
           </p>
           <h1 className="mt-4 font-display text-5xl leading-[1.05]">
             The everyday elegance of Pakistan, saved to your account.

@@ -4,7 +4,7 @@ import { SignUp } from "@clerk/nextjs";
 export const metadata: Metadata = {
   title: "Create account",
   description:
-    "Create a Hunar Bazaar account to save addresses, track orders and keep your wishlist in sync.",
+    "Create a Pursuit E-Store account to save addresses, track orders and keep your wishlist in sync.",
 };
 
 export default function SignUpPage() {
@@ -13,7 +13,7 @@ export default function SignUpPage() {
       <div>
         <h1 className="font-display text-3xl text-stone-900">Create your account</h1>
         <p className="mt-2 text-sm text-muted-foreground">
-          Join Hunar Bazaar to check out faster. We support email, Google and Pakistani phone
+          Join Pursuit E-Store to check out faster. We support email, Google and Pakistani phone
           numbers via OTP.
         </p>
       </div>
